@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BloodTec</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Create publication component -->
+    <string name="btn_create_publication"></string>
+
+    <!-- Main menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_profile">Profile</string>
+</resources>
